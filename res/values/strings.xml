@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exemplo 1</string>
+    <string name="edit_message">Edite aqui...</string>
+    <string name="button_send">Enviar</string>
+    <string name="title_activity_display_message">Texto Digitado</string>
+</resources>
